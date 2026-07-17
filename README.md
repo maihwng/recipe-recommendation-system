@@ -88,7 +88,6 @@ Thay vì chỉ tìm kiếm dựa trên từ khóa, hệ thống sử dụng:
 - Sentence-BERT.
 - Vietnamese Sentence-BERT model.
 - FAISS (Facebook AI Similarity Search).
-```
 
 Điều này giúp hệ thống tìm được các món ăn có **ý nghĩa tương đồng** ngay cả khi câu truy vấn không chứa chính xác từ khóa trong công thức.
 
